@@ -1,0 +1,29 @@
+<cartelera>
+	<pelicula>
+		<codigo>1</codigo>
+		<titulo>Deadpool</titulo>
+		<duracion>106</duracion>
+		<generos>
+			<genero>comedia</genero>
+			<genero>aventura</genero>
+		</generos>
+	</pelicula>
+	<pelicula>
+		<codigo>2</codigo>
+		<titulo>Alvin y las ardillas</titulo>
+		<duracion>102</duracion>
+		<generos>
+			<genero>aventura</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+	<pelicula>
+		<codigo>3</codigo>
+		<titulo>Caperusita comiendo con el lobo feroz</titulo>
+		<duracion>0</duracion>
+		<generos>
+			<genero>porno</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+</cartelera>

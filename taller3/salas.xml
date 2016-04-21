@@ -1,0 +1,18 @@
+<salas>
+	<sala>
+		<numero>1</numero>
+		<formato>2D</formato>
+	</sala>
+	<sala>
+		<numero>2</numero>
+		<formato>3D</formato>
+	</sala>
+	<sala>
+		<numero>3</numero>
+		<formato>4D</formato>
+	</sala>
+	<sala>
+		<numero>4</numero>
+		<formato>vibrosound</formato>
+	</sala>
+</salas>
